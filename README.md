@@ -1,4 +1,4 @@
-# 🔐 Task 3 – Password Strength Evaluation
+
 
 ## 🎯 Objective
 Understand what makes a **password strong** and test different passwords using online **password strength tools**.
@@ -25,10 +25,10 @@ Create and test multiple passwords with different levels of complexity.
 
 | Password Example | Description | Screenshot |
 |------------------|-------------|-------------|
-| `password` | Simple lowercase only | [![p1](p1.png)]
-| `Password123` | Includes uppercase and numbers | [![p2](p2.png)]
-| `P@ssw0rd!` | Mix of upper/lowercase, numbers, and symbols | [![p3](p3.png)]
-| `My$ecureP@ssw0rd2025!` | Long, complex, strong password | [![p4](p4.png)]
+| `12345678` | Simple lowercase only | [![p1](p1.png)]
+| `Admin123` | Includes uppercase and numbers | [![p2](p2.png)]
+| `admin123456789` | Mix of upper/lowercase, numbers, and symbols | [![p3](p3.png)]
+| `H4ck3r@2025#` | Long, complex, strong password | [![p4](p4.png)]
 
 For each test, note:
 - **Score percentage**
